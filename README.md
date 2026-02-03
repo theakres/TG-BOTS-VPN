@@ -115,6 +115,7 @@ https://t.me/glushvpn_bot
 https://t.me/kotvpn_bot
 https://t.me/LummaVPN_bot
 https://t.me/nexyonvpn_bot
+https://t.me/NimarkoVlessBot
 https://t.me/nonovpnbot
 https://t.me/NosokVPNBot
 https://t.me/prostoconnectbot
