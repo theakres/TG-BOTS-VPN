@@ -57,6 +57,7 @@ https://t.me/psnreality_bot
 
 **3 дня:** <br>
 https://t.me/adblocker_robot
+https://t.me/AtlantaVPN_bot
 https://t.me/CaveVpn_Bot
 https://t.me/chillvpns_bot
 https://t.me/Enot_vpn_net_bot
