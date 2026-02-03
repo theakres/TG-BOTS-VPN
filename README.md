@@ -1,34 +1,33 @@
 Если вы хотите добавить сюда ботов которые нашли вы, напишите пожалуйста мне в Telegram - @theAkres
 
-**Бесконечно:**
-
+**Бесконечно:** <br>
 https://t.me/abs_vpnbot
 https://t.me/easygorobot
 https://t.me/Fr33d0mVPN_bot
 https://t.me/Geodema_bot
 https://t.me/PrivioTech_bot
 
-**45 дней:**
+**45 дней:** <br>
 https://t.me/VPNVezdehodBot
 
-**30 дней:**
+**30 дней:** <br>
 https://t.me/hlvpnbot
 https://t.me/nnvpn_iobot
 https://t.me/sipivpnbot
 
-**15 дней:**
+**15 дней:** <br>
 https://t.me/nekosocksbot
 
-**14 дней:**
+**14 дней:** <br>
 https://t.me/PotatoFreeVPNBot
 
-**10 дней:**
+**10 дней:** <br>
 https://t.me/boxyvpn_bot
 https://t.me/MaxVPN_xbot
 https://t.me/oda_vpn_bot
 https://t.me/Volnanetbot
 
-**7 дней:**
+**7 дней:** <br>
 https://t.me/abvpnbot
 https://t.me/aliusvpn_bot
 https://t.me/darknetvpnbot
@@ -45,7 +44,7 @@ https://t.me/VPNos_bot
 https://t.me/xankaVPN_bot
 https://t.me/YT_vpnbot
 
-**5 дней:**
+**5 дней:** <br>
 https://t.me/cat_net_bot
 https://t.me/DefLink_Bot
 https://t.me/InvisibleShrimpBot
@@ -53,10 +52,10 @@ https://t.me/need
 https://t.me/obhod_mobilniy_bot
 https://t.me/ScroogeVPNRobot
 
-**4 дня:**
+**4 дня:** <br>
 https://t.me/psnreality_bot
 
-**3 дня:**
+**3 дня:** <br>
 https://t.me/adblocker_robot
 https://t.me/CaveVpn_Bot
 https://t.me/chillvpns_bot
@@ -90,7 +89,7 @@ https://t.me/WolfPN_bot
 https://t.me/YouFast_vpn_bot
 https://t.me/GorkyVPN_bot
 
-**2 дня:**
+**2 дня:** <br>
 https://t.me/AppaVPN_bot
 https://t.me/BruhvpnBot
 https://t.me/DRAKON_RED_VPN_bot
@@ -104,7 +103,7 @@ https://t.me/vlessbots_bot
 https://t.me/VME_Boost_bot
 https://t.me/VPN_TelegramBot
 
-**1 день:**
+**1 день:** <br>
 https://t.me/abcabcvpn_bot
 https://t.me/Adrenaline_VPN_bot
 https://t.me/Agveit_Access_bot
