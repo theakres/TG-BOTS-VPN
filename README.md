@@ -52,6 +52,7 @@ https://t.me/InvisibleShrimpBot
 https://t.me/need
 https://t.me/obhod_mobilniy_bot
 https://t.me/ScroogeVPNRobot
+https://t.me/truevpnrus_bot
 
 **4 дня:** <br>
 https://t.me/psnreality_bot
