@@ -53,6 +53,7 @@ https://t.me/need
 https://t.me/obhod_mobilniy_bot
 https://t.me/ScroogeVPNRobot
 https://t.me/truevpnrus_bot
+https://t.me/VPNDendibot
 
 **4 дня:** <br>
 https://t.me/psnreality_bot
@@ -78,6 +79,7 @@ https://t.me/onetvpnbot
 https://t.me/oplVPN_bot
 https://t.me/PhonkVpnBot
 https://t.me/privata_vpn_bot
+https://t.me/PRYANIK_NET_VPN_bot
 https://t.me/QuattroVPN_BOT
 https://t.me/reality_vpn_robot
 https://t.me/ShyneVPNbot
