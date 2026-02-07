@@ -132,4 +132,5 @@ https://t.me/UfaVPNbot
 https://t.me/uffavpn_bot
 https://t.me/vpn24x7bot
 https://t.me/VpnPantherBot
+https://t.me/VPNSOKOLBOT
 https://t.me/VPNtor_bot
