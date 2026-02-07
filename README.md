@@ -3,7 +3,6 @@
 
 **Бесконечно:** <br>
 https://t.me/abs_vpnbot
-https://t.me/Fr33d0mVPN_bot
 https://t.me/Geodema_bot
 https://t.me/PrivioTech_bot
 
@@ -67,6 +66,7 @@ https://t.me/Enot_vpn_net_bot
 https://t.me/EtherVPNBot
 https://t.me/Ezhik_VPN_robot
 https://t.me/Feels_VPN_bot
+https://t.me/Fr33d0mVPN_bot
 https://t.me/freevpndom_bot
 https://t.me/gammaVPN_bot
 https://t.me/go_vpn
