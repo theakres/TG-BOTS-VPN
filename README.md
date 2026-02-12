@@ -127,6 +127,7 @@ https://t.me/rsconnect_bot
 https://t.me/Sity34_bot
 https://t.me/SnowfallVPN_bot
 https://t.me/systvpnbot
+https://t.me/TrumpVPNKBOT
 https://t.me/TuppyVpnAdmin_robot
 https://t.me/UfaVPNbot
 https://t.me/uffavpn_bot
